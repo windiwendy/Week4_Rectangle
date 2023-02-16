@@ -1,0 +1,15 @@
+D:\GAme1343\Week4_Rectangle\bin\Debug\net6.0\Week4_Rectangle.exe
+D:\GAme1343\Week4_Rectangle\bin\Debug\net6.0\Week4_Rectangle.deps.json
+D:\GAme1343\Week4_Rectangle\bin\Debug\net6.0\Week4_Rectangle.runtimeconfig.json
+D:\GAme1343\Week4_Rectangle\bin\Debug\net6.0\Week4_Rectangle.dll
+D:\GAme1343\Week4_Rectangle\bin\Debug\net6.0\Week4_Rectangle.pdb
+D:\GAme1343\Week4_Rectangle\obj\Debug\net6.0\Week4_Rectangle.csproj.AssemblyReference.cache
+D:\GAme1343\Week4_Rectangle\obj\Debug\net6.0\Week4_Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\GAme1343\Week4_Rectangle\obj\Debug\net6.0\Week4_Rectangle.AssemblyInfoInputs.cache
+D:\GAme1343\Week4_Rectangle\obj\Debug\net6.0\Week4_Rectangle.AssemblyInfo.cs
+D:\GAme1343\Week4_Rectangle\obj\Debug\net6.0\Week4_Rectangle.csproj.CoreCompileInputs.cache
+D:\GAme1343\Week4_Rectangle\obj\Debug\net6.0\Week4_Rectangle.dll
+D:\GAme1343\Week4_Rectangle\obj\Debug\net6.0\refint\Week4_Rectangle.dll
+D:\GAme1343\Week4_Rectangle\obj\Debug\net6.0\Week4_Rectangle.pdb
+D:\GAme1343\Week4_Rectangle\obj\Debug\net6.0\Week4_Rectangle.genruntimeconfig.cache
+D:\GAme1343\Week4_Rectangle\obj\Debug\net6.0\ref\Week4_Rectangle.dll
